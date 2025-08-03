@@ -8,6 +8,9 @@ Features:
 - Interactive alert system (mock voice interaction)
 
  🧪 Screenshots
+#Day 2: Integrated Murf TTS API and added /generate-audio endpoint
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/5b5c21e6-4894-4a6e-a79f-f232a478ccee" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/182ffb6d-06a6-40ee-8f24-eaa6bfbb67aa" />
 # Interface
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/106ff956-465c-4b4c-b835-9693d46497b5" />
 # Code Files 
